@@ -4,7 +4,7 @@ Este repositorio contiene mi proyecto de programación web donde estoy aprendien
 
 ## Acerca de mí
 
-¡Hola! Soy [Tu Nombre], un apasionado de la programación web. Estoy enfocado en aprender y mejorar mis habilidades en HTML, CSS y JavaScript para construir aplicaciones web interactivas y atractivas.
+¡Hola! Soy Nandez, un apasionado de la programación web. Estoy enfocado en aprender y mejorar mis habilidades en HTML, CSS y JavaScript para construir aplicaciones web interactivas y atractivas.
 
 ## Lo que estoy Aprendiendo
 
@@ -16,7 +16,7 @@ Actualmente, estoy inmerso en el aprendizaje de:
 
 ## Mi Proyecto Actual
 
-Estoy trabajando en un proyecto de programación web que se basa en el uso de HTML, CSS y JavaScript. Este proyecto tiene como objetivo [breve descripción del objetivo del proyecto].
+Estoy trabajando en un proyecto de programación web que se basa en el uso de HTML, CSS y JavaScript. Este proyecto tiene como objetivo desarolla una pagina web desde 0.
 
 ## Tecnologías Utilizadas
 
@@ -26,11 +26,11 @@ Estoy trabajando en un proyecto de programación web que se basa en el uso de HT
 
 ## Cómo Contribuir
 
-Si deseas contribuir a este proyecto, ¡estás más que bienvenido! Puedes [explicar cómo otros pueden contribuir o sugerir formas específicas de contribución].
+Si deseas contribuir a este proyecto, ¡estás más que bienvenido! Puedes indicarme que cosas mejorar y que puedo aprender para seguir progresando.
 
 ## Contacto
 
-Si quieres ponerse en contacto conmigo, puedes hacerlo a través de [tu correo electrónico o redes sociales].
+Si quieres ponerse en contacto conmigo, puedes hacerlo a través de mi correo: nicofernandezok15@gmail.com o  Twitter: https://twitter.com/NandezGG.
 
 Espero que este proyecto refleje mi progreso y pasión por la programación web. ¡Gracias por visitar este repositorio!
 
